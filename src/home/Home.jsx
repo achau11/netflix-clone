@@ -6,6 +6,8 @@ const Home = () => {
   return (
     <div className='home'>
       <Navbar />
+      
+      <img width='100%' src="/images/pexels-jeremy-bishop-2422915.jpg" alt="" />
     </div>
   )
 }
