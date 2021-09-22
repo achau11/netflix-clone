@@ -25,7 +25,7 @@ const Featured = ({type}) => {
           </select>
         </div>
       )}
-      <img src="/images/pexels-jeremy-bishop-2422915.jpg" alt="" />
+      <img src="https://images.wallpaperscraft.com/image/single/city_evening_snowfall_136478_1920x1080.jpg" alt="" />
       <div className="info">
         <img src="https://hyperpix.net/wp-content/uploads/2019/07/the-matrix-logo-font-download-856x484.jpg" alt="" />
         <span className="desc">
